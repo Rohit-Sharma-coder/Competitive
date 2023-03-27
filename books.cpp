@@ -1,14 +1,13 @@
-#include<bits/stdc++.h> 
+#include<bits/stdc++.h>
 
 using namespace std;
+#define vi vector<int> ;
+#define vii vector<vector<int> > ; 
 
 
 
 
 void solve(){
-
-cout << "hello world" << endl;
-
 
 }
 
